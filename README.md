@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nokuthula Nhleko 👋
+Aspiring Data Engineer| SQL | Power BI | Python | Data Pipelines
 
-<!--
-**nokuthulanhleko/nokuthulanhleko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Aspiring Data Engineer with a professional background in Insurance Claims, Medical Billing & Account Management working across South African, Australian and US Markets. My experience working with large volumes of operational and claims data sparked my interest in how data can be structured, processed and transformed into meaningful insights that support better business decisions.
 
-Here are some ideas to get you started:
+My current focus is on learning how to design data pipelines, perform data transformations and build scalable data solutions using tools such as Databricks and cloud-based data platforms.Through hands-on projects, I am developing experience in data cleaning, ETL / ELT processes, data modeling and analytics workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to combine my deep industry knowledge of insurance and operations with data engineering skills to buid reliable data systems that help organisations unlock the full value of their data. 
+
+
+## Technical Skills
+- SQL
+- Python
+- Excel
+- Power BI
+- Data Cleaning
+- ETL / ELT data pipelines
+- Databricks fundamentals
+- Data modeling concepts
+- Data Warehousing 
+
