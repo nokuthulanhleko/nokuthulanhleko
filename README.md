@@ -7,15 +7,37 @@ I specialize in working with high-volume operational data, and I’m currently t
 ________________________________________
 🎯 What Makes Me Different
 
-✔️ Real-world experience with messy, high-volume claims data
+## 🎯 What Makes Me Different
 
-✔️ Strong understanding of business processes & data flows
+✔️ **Domain Expertise in Insurance & Healthcare Data**
+I bring real-world experience working with complex datasets from insurance claims and medical billing systems—data that is often messy, sensitive, and operationally critical. This gives me a strong understanding of how data is generated, processed, and used in business contexts.
 
-✔️ Ability to bridge the gap between operations and data engineering
+✔️ **Experience with High-Volume, Real-World Data**
+Unlike purely academic projects, I’ve worked with large datasets where accuracy, consistency, and timeliness directly impact business outcomes. I understand the challenges of handling missing data, inconsistencies, and edge cases at scale.
 
-✔️ Global exposure (SA 🇿🇦 | AU 🇦🇺 | US 🇺🇸 markets)
+✔️ **Strong Business & Operational Context**
+My background in account management and operations allows me to think beyond just pipelines—I focus on building data solutions that align with **business needs, reporting requirements, and decision-making processes**.
+
+✔️ **Bridging the Gap Between Business & Data Engineering**
+I can translate business problems into data solutions. This includes understanding stakeholder needs, defining data requirements, and structuring data in a way that supports analytics and reporting.
+
+✔️ **Global Market Exposure**
+I’ve worked across **South African, Australian, and US markets**, giving me insight into different systems, processes, and data standards—an advantage when working in global or remote teams.
+
+✔️ **Problem-Solving Mindset with a Data-First Approach**
+I approach problems by asking:
+
+* What data is available?
+* How reliable is it?
+* How can it be transformed into something useful?
+
+✔️ **Focused Transition into Data Engineering**
+I’m not just learning theory—I’m actively building projects that simulate real-world data engineering workflows, including pipelines, transformations, and data modeling.
+
+✔️ **High Attention to Detail**
+Working in claims and billing required precision and accuracy. I carry this into data work, ensuring data quality, validation, and reliability are always prioritized.
+
  
-
 ## 🛠️ Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
