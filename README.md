@@ -46,7 +46,7 @@ Working in claims and billing required precision and accuracy. I carry this into
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
 
-##🌍 Career Focus
+## 🌍 Career Focus
 I am actively seeking:
 
 🔹 Entry-level Data Engineering roles
@@ -61,7 +61,7 @@ Particularly interested in:
 
 •	Data-driven organizations 
 ________________________________________
-##🤝 Let's Connect
+## 🤝 Let's Connect
 
 I’m open to collaborating, learning, and contributing to real-world data projects.
 
