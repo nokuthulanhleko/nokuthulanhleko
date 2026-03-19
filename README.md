@@ -47,13 +47,13 @@ Working in claims and billing required precision and accuracy. I carry this into
 ![Databricks](https://img.shields.io/badge/Databricks-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
-📂 Portfolio Projects
 
 🌍 Career Focus
 I am actively seeking:
-•	🔹 Entry-level Data Engineering roles
-•	🔹 Internships / Graduate programs
-•	🔹 Remote opportunities with global teams
+
+🔹 Entry-level Data Engineering roles
+
+🔹 Remote opportunities with global teams
 
 Particularly interested in:
 
