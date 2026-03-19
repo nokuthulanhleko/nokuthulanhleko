@@ -6,9 +6,13 @@ I am an aspiring Data Engineer with hands-on experience in Insurance Claims, Med
 I specialize in working with high-volume operational data, and I’m currently transitioning into data engineering to build systems that transform raw data into reliable, scalable, and business-ready insights.
 ________________________________________
 🎯 What Makes Me Different
+
 ✔️ Real-world experience with messy, high-volume claims data
+
 ✔️ Strong understanding of business processes & data flows
+
 ✔️ Ability to bridge the gap between operations and data engineering
+
 ✔️ Global exposure (SA 🇿🇦 | AU 🇦🇺 | US 🇺🇸 markets)
  
 
