@@ -1,7 +1,5 @@
 # Hi, I'm Nokuthula Nhleko 👋
 
-💡 Who I Am
-
 I am an aspiring Data Engineer with hands-on experience in Insurance Claims, Medical Billing, and Account Management across South African, Australian, and US markets.
 I specialize in working with high-volume operational data, and I’m currently transitioning into data engineering to build systems that transform raw data into reliable, scalable, and business-ready insights.
 _______________________________________
@@ -57,11 +55,11 @@ I am actively seeking:
 
 Particularly interested in:
 
-•	Fintech 💳
+•	Fintech 
 
-•	Insurance 🏥
+•	Insurance 
 
-•	Data-driven organizations 📊
+•	Data-driven organizations 
 ________________________________________
 🤝 Let's Connect
 
