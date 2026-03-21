@@ -54,7 +54,6 @@
 
 <h2>🤝 Connect with Me</h2>
 <ul>
-  <li>💼 LinkedIn: <a href="#">Your LinkedIn URL</a></li>
   <li>📧 Email: <a href="mailto:nokuthula.nhleko@gmail.com">nokuthula.nhleko@gmail.com</a></li>
 </ul>
 
