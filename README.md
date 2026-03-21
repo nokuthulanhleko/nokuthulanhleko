@@ -1,30 +1,18 @@
-<table>
-  <tr>
-    <td width="220" valign="top">
-      <img src="profile.jpg" alt="Nokuthula Nhleko" width="200" style="border-radius: 50%; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
-    </td>
-    <td valign="top" style="padding-left: 20px;">
-      <h1 style="margin-bottom:5px;">Hi, I'm Nokuthula Nhleko 👋</h1>
-      <p style="font-size:16px; line-height:1.5;">
-        Aspiring <strong>Data Engineer</strong> with hands-on experience in 
-        Insurance Claims, Medical Billing, and Account Management across 
-        South African, Australian, and US markets.  
-        <br>
-        I transform high-volume operational data into reliable, business-ready insights.
-      </p>
-      <p>
-        <strong>Core Strengths:</strong>
-        <ul>
-          <li>Domain expertise in Insurance & Healthcare data</li>
-          <li>High-volume, real-world dataset handling</li>
-          <li>Bridging business needs & data solutions</li>
-          <li>Global market exposure: SA, AU, US</li>
-          <li>Attention to data quality & operational detail</li>
-        </ul>
-      </p>
-    </td>
-  </tr>
-</table>
+<h1>Hi, I'm Nokuthula Nhleko 👋</h1>
+<p>
+Aspiring <strong>Data Engineer</strong> | Insurance & Healthcare data | Transforming high-volume operational data into business-ready insights
+</p>
+
+---
+
+<h2>🎯 Core Strengths</h2>
+<ul>
+  <li>Domain expertise in Insurance & Healthcare data</li>
+  <li>High-volume, real-world dataset handling</li>
+  <li>Bridging business needs & data solutions</li>
+  <li>Global market exposure: SA, AU, US</li>
+  <li>Attention to data quality & operational detail</li>
+</ul>
 
 ---
 
@@ -44,12 +32,12 @@
 
 <h2>🌍 Career Focus</h2>
 <p>
-  Entry-level Data Engineering roles | Remote opportunities | Focused on Fintech, Insurance, and Data-driven organizations
+Entry-level Data Engineering | Remote opportunities | Fintech, Insurance, Data-driven organizations
 </p>
 
 ---
 
 <h2>🤝 Connect with Me</h2>
 <p>
-  📧 Email: <a href="mailto:nokuthula.nhleko@gmail.com">nokuthula.nhleko@gmail.com</a>
+📧 Email: <a href="mailto:nokuthula.nhleko@gmail.com">nokuthula.nhleko@gmail.com</a>
 </p>
