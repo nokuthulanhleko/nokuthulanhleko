@@ -1,71 +1,60 @@
-# Hi, I'm Nokuthula Nhleko 👋
+<table>
+  <tr>
+    <td width="220">
+      <img src="profile.jpg" alt="Nokuthula Nhleko" width="200" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h1>Hi, I'm Nokuthula Nhleko 👋</h1>
+      <p>
+        Aspiring <strong>Data Engineer</strong> with hands-on experience in 
+        Insurance Claims, Medical Billing, and Account Management across 
+        South African, Australian, and US markets.
+      </p>
+      <p>
+        I specialize in transforming high-volume operational data into 
+        reliable, business-ready insights.
+      </p>
+    </td>
+  </tr>
+</table>
 
-I am an aspiring Data Engineer with hands-on experience in Insurance Claims, Medical Billing, and Account Management across South African, Australian, and US markets.
-I specialize in working with high-volume operational data, and I’m currently transitioning into data engineering to build systems that transform raw data into reliable, scalable, and business-ready insights.
-_______________________________________
+---
 
-## 🎯 What Makes Me Different
+<h2>🎯 Core Strengths</h2>
+<ul>
+  <li>Domain expertise in Insurance & Healthcare data</li>
+  <li>Experience handling high-volume, real-world datasets</li>
+  <li>Bridging business needs with data engineering solutions</li>
+  <li>Global market exposure: South Africa, Australia, US</li>
+  <li>Strong attention to data quality & operational detail</li>
+</ul>
 
-✔️ **Domain Expertise in Insurance & Healthcare Data**
-I bring real-world experience working with complex datasets from insurance claims and medical billing systems—data that is often messy, sensitive, and operationally critical. This gives me a strong understanding of how data is generated, processed, and used in business contexts.
+---
 
-✔️ **Experience with High-Volume, Real-World Data**
-Unlike purely academic projects, I’ve worked with large datasets where accuracy, consistency, and timeliness directly impact business outcomes. I understand the challenges of handling missing data, inconsistencies, and edge cases at scale.
+<h2>🛠️ Tech Stack</h2>
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+</p>
 
-✔️ **Strong Business & Operational Context**
-My background in account management and operations allows me to think beyond just pipelines—I focus on building data solutions that align with **business needs, reporting requirements, and decision-making processes**.
+---
 
-✔️ **Bridging the Gap Between Business & Data Engineering**
-I can translate business problems into data solutions. This includes understanding stakeholder needs, defining data requirements, and structuring data in a way that supports analytics and reporting.
+<h2>🌍 Career Focus</h2>
+<p>
+  Entry-level Data Engineering roles, remote opportunities, especially in 
+  Fintech, Insurance, and Data-driven organizations.
+</p>
 
-✔️ **Global Market Exposure**
-I’ve worked across **South African, Australian, and US markets**, giving me insight into different systems, processes, and data standards—an advantage when working in global or remote teams.
+---
 
-✔️ **Problem-Solving Mindset with a Data-First Approach**
-I approach problems by asking:
-
-* What data is available?
-* How reliable is it?
-* How can it be transformed into something useful?
-
-✔️ **Focused Transition into Data Engineering**
-I’m not just learning theory—I’m actively building projects that simulate real-world data engineering workflows, including pipelines, transformations, and data modeling.
-
-✔️ **High Attention to Detail**
-Working in claims and billing required precision and accuracy. I carry this into data work, ensuring data quality, validation, and reliability are always prioritized.
-
- 
-## 🛠️ Tech Stack
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-FF6F00?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-
-
-## 🌍 Career Focus
-I am actively seeking:
-
-🔹 Entry-level Data Engineering roles
-
-🔹 Remote opportunities with global teams
-
-Particularly interested in:
-
-•	Fintech 
-
-•	Insurance 
-
-•	Data-driven organizations 
-________________________________________
-## 🤝 Let's Connect
-
-I’m open to collaborating, learning, and contributing to real-world data projects.
-
-•	💼 LinkedIn: 
-
-•	📧 Email: nokuthula.nhleko@gmail.com
+<h2>🤝 Connect with Me</h2>
+<ul>
+  <li>💼 LinkedIn: <a href="#">Your LinkedIn URL</a></li>
+  <li>📧 Email: <a href="mailto:nokuthula.nhleko@gmail.com">nokuthula.nhleko@gmail.com</a></li>
+</ul>
 
