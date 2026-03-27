@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nokuthula Nhleko 👋</h1>
 <p>
-Aspiring <strong>Data Engineer</strong> | Insurance & Healthcare data | Transforming high-volume operational data into business-ready insights
+Aspiring Data Engineer with a background in account management, bringing a strong understanding of business needs into data solutions. I’m passionate about working with insurance and healthcare data, building pipelines, and transforming high-volume operational data into clean, actionable insights.
 </p>
 
 ---
