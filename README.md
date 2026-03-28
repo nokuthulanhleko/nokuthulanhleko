@@ -9,7 +9,7 @@ My background enables me to bridge the gap between business and technology—des
 
 <h2> Core Strengths</h2>
 <ul>
-  <li>Domain expertise in Insurance & Healthcare data</li>
+  <li>Domain expertise in Insurance, e-Hailing & Healthcare data</li>
   <li>High-volume, real-world dataset handling</li>
   <li>Bridging business needs & data solutions</li>
   <li>Global market exposure: SA, AU, US</li>
