@@ -1,11 +1,13 @@
 <h1>Hi, I'm Nokuthula Nhleko 👋</h1>
 <p>
-Aspiring Data Engineer with a background in account management, bringing a strong understanding of business needs into data solutions. I’m passionate about working with insurance and healthcare data, building pipelines, and transforming high-volume operational data into clean, actionable insights.
+Data Engineer in the making with a foundation in account management, bringing a sharp understanding of business needs into scalable data solutions. Experienced across insurance, healthcare, and e-hailing industries, I specialize in transforming high-volume operational data into clean, reliable, and actionable insights.
+
+My background enables me to bridge the gap between business and technology—designing data pipelines that not only process data efficiently but also drive real-world decision-making. Passionate about leveraging data to improve customer experiences, optimize operations, and uncover strategic opportunities in fast-moving, data-rich environments.
 </p>
 
 ---
 
-<h2>🎯 Core Strengths</h2>
+<h2> Core Strengths</h2>
 <ul>
   <li>Domain expertise in Insurance & Healthcare data</li>
   <li>High-volume, real-world dataset handling</li>
