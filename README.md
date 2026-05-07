@@ -1,46 +1,71 @@
 <h1>Hi, I'm Nokuthula Nhleko 👋</h1>
 <p>
-Data Engineer in the making with a foundation in account management, bringing a sharp understanding of business needs into scalable data solutions. Experienced across insurance, healthcare, and e-hailing industries, I specialize in transforming high-volume operational data into clean, reliable, and actionable insights.
 
-My background enables me to bridge the gap between business and technology—designing data pipelines that not only process data efficiently but also drive real-world decision-making. Passionate about leveraging data to improve customer experiences, optimize operations, and uncover strategic opportunities in fast-moving, data-rich environments.
-</p>
 
----
-
-<h2> Core Strengths</h2>
-<ul>
-  <li>Domain expertise in Insurance, e-Hailing & Healthcare data</li>
-  <li>High-volume, real-world dataset handling</li>
-  <li>Bridging business needs & data solutions</li>
-  <li>Global market exposure: SA, AU, US</li>
-  <li>Attention to data quality & operational detail</li>
-</ul>
+**Aspiring Data Engineer | SQL Server | ETL Pipelines | Insurance Analytics**
 
 ---
 
-<h2> Tech Stack</h2>
-<p>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Data%20Pipelines-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-</p>
+I am an aspiring **Data Engineer** focused on building **end-to-end data pipelines**, transforming raw data into structured data warehouses, and delivering business-ready insights.
+
+My work is centered around **insurance analytics**, where I design pipelines for:
+
+* Claims analytics and repudiation
+* Customer retention analysis
+  
+---
+
+## Technical Skills
+
+* SQL Server & T-SQL
+* ETL Pipeline Development
+* Data Warehousing (Star Schema)
+* Stored Procedures & Data Transformation
+* Power BI (Data Visualisation)
+* Git & GitHub
+* SSIS (Learning)
+* Azure Fundamentals (AZ-900 in progress)
 
 ---
 
-<h2>🌍 Career Focus</h2>
-<p>
-Entry-level Data Engineering | Remote opportunities | Fintech, Insurance, Data-driven organizations
-</p>
+## Featured Projects
+
+### 🔹 Claims Analytics & Repudiation Pipeline
+* Building an end-to-end ETL pipeline using SQL Server
+* Implementing real-world insurance business rules for claim outcomes
+* Designing a scalable star schema data warehouse
+* Delivering business insights through Power BI dashboards
+
+👉 [View Project](https://github.com/nokuthulanhleko/STI-Claims-Analytics-Repudiation-ETL-Pipeline)
 
 ---
 
-<h2>🤝 Connect with Me</h2>
-<p>
-📧 Email: <a href="mailto:nokuthula.nhleko@gmail.com">nokuthula.nhleko@gmail.com</a>
-</p>
+### 🔹 Personal Lines Retention Analytics Pipeline
+
+* Analysed policy renewals and retention drivers
+* Built dimension and fact tables
+* Created Power BI dashboard with KPIs
+
+👉 [View Project](https://github.com/nokuthulanhleko/STI-Personal-Lines-Retention-Analytics-Pipeline)
+
+---
+
+## What I’m Working On
+
+* Enhancing ETL pipelines with automation (SSIS / ADF)
+* Building portfolio-ready dashboards
+* Preparing for Microsoft Azure AZ-900 certification
+
+---
+
+## Let’s Connect
+
+* Email: nokuthula.nhleko@gmail.com
+
+---
+
+## Goal
+
+To secure an entry-level **Data Engineering role** where I can contribute to building scalable data solutions and continue growing my technical expertise.
+
+
