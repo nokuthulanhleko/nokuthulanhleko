@@ -64,8 +64,3 @@ My work is centered around **insurance analytics**, where I design pipelines for
 
 ---
 
-## Goal
-
-To secure an entry-level **Data Engineering role** where I can contribute to building scalable data solutions and continue growing my technical expertise.
-
-
